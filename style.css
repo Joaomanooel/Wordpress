@@ -332,6 +332,27 @@ footer > .center{
 .col-footer h2{color: #232931;font-size: 13px;font-weight: normal;margin-bottom: 15px;text-transform: uppercase;}
 .col-footer a{color: #b4b4b4;font-size: 13px;display: block;margin-top: 16px;text-decoration: none;}
 
+/*Pagina Sobre*/
+
+section.sobre-equipe{
+	padding: 40px 0;
+}
+
+.equipe-sobre-texto h2{ 
+	font-size: 45px;
+	color: #202020;
+	padding: 0 20px;
+}
+
+.equipe-sobre-texto p{
+	font-size: 16px;
+	color: #202020;
+	line-height: 28px;
+	padding: 15px 20px;
+}
+section.sobre-equipe img{
+	max-width: 100%;
+}
 @media screen and (max-width: 768px){
 	.col-footer{margin-bottom: 30px;width: 100% !important;text-align: center !important;}
 	.box-single-diferenciais{width: 100%;}
@@ -339,4 +360,5 @@ footer > .center{
 	.img-time{margin-top:30px;}
 	.menu-desktop{display: none;}
 	.menu-mobile{display: block;}
+	section.sobre-equipe img{margin-top: 20px;}
 }
