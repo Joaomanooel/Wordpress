@@ -37,12 +37,58 @@
 			<div class="w50 equipe-sobre-texto">
 				<h2>Uma equipe estrategica para um trabalho incrivel</h2>
 				<p> É chegada uma nova era, o tempo de recomeçar a rever conceitos e valores. O ser humano é extremamente dependente dos seus semelhantes, pois nenhuma pessoa consegue viver sem depender de ninguém. O calçado, a camisa, o alimento, tudo de que necessitamos teve o trabalho e a mão de obra de uma outra pessoa que muitas vezes nem conhecemos, mas, de certa forma, essa pessoa nos favoreceu...</p>
-			</div>
+			</div><!--Texto-da-Imagem-->
 			<div class="w50">
 				<img src="images/sobre/equipe.png">
 			</div>
-			<div class="clear"></div>
+			<div class="clear"></div><!--Imagem-do-Texto-->
 		</div>
 	</section>
+	<section class="sobre-imagens">
+		<div class="center">
+			<div class="img-sobre">
+				<img src="images/sobre/sobre-inf.png">
+			</div>
+			<div class="img-sobre">
+				<img src="images/sobre/sobre-inf.png">
+			</div>
+			<div class="img-sobre">
+				<img src="images/sobre/sobre-inf.png">
+			</div>
+			<div class="img-sobre">
+				<img src="images/sobre/sobre-inf.png">
+			</div>
+		</div>
+	</section><!--Imagens-sobre-->
+
+	<footer>
+	<section class="metodologia">
+		<div class="center">
+			<h2>Conheça nossa Metodologia</h2>
+			<p>O que acha de fazermos o que mais gostamos de fazer? Conversar!<br />Entre em contato por e-mail ou telefone.</p>
+			<a href="/contato">Entrar Contato</a>
+		</div>
+	</section>
+		<div class="center">
+			<div class="col-footer">
+				<h2>Suporte</h2>
+				<a href="">Contato</a>
+				<a href="">FAQ</a>
+			</div>
+			<div class="col-footer">
+				<h2>Suporte</h2>
+				<a href="">Contato</a>
+				<a href="">FAQ</a>
+			</div>
+			<div class="col-footer">
+				<h2>Suporte</h2>
+				<a href="">Contato</a>
+				<a href="">FAQ</a>
+			</div>
+			<div style="width: 40%;text-align: right;" class="col-footer">
+				<img src="images/footer/foter.png" />
+			</div>
+		</div>
+	</footer><!--Final-da-pagina-->
 </body>
 </html>

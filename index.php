@@ -116,12 +116,12 @@
 				<div class="depoimento-single">
 					<p>"Aliqua quis ut duis eiusmod laboris aliquip elit consequat incididunt occaecat minim in consequat ut id culpa veniam. Ut mollit culpa laboris reprehenderit esse id anim anim quis in sed laborum irure mollit culpa."</p>
 					<p>Guilherme Grillo</p>
-					<img src="images/autor.jpg" />
+					<img src="images/midimage/ilustracao-04.png" />
 				</div><!--depoimento-single-->
 				<div class="depoimento-single">
 					<p>"Aliqua quis ut duis eiusmod laboris aliquip elit consequat incididunt occaecat minim in consequat ut id culpa veniam. Ut mollit culpa laboris reprehenderit esse id anim anim quis in sed laborum irure mollit culpa."</p>
 					<p>Guilherme Grillo</p>
-					<img src="images/autor.jpg" />
+					<img src="images/midimage/ilustracao-04.png" />
 				</div><!--depoimento-single-->
 				<div class="depoimento-single">
 					<p>"Aliqua quis ut duis eiusmod laboris aliquip elit consequat incididunt occaecat minim in consequat ut id culpa veniam. Ut mollit culpa laboris reprehenderit esse id anim anim quis in sed laborum irure mollit culpa."</p>
@@ -158,7 +158,7 @@
 				<a href="">FAQ</a>
 			</div>
 			<div style="width: 40%;text-align: right;" class="col-footer">
-				<img src="images/logo-footer.png" />
+				<img src="images/footer/foter.png" />
 			</div>
 		</div>
 	</footer>
