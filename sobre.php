@@ -90,5 +90,14 @@
 			</div>
 		</div>
 	</footer><!--Final-da-pagina-->
+
+	<script src="js/jquery.js"></script>
+	
+	<script>
+	//Menu responsivo.
+	$('.menu-mobile i').click(function(){
+		$('.menu-mobile').find('ul').slideToggle();
+	})
+	</script>
 </body>
 </html>
