@@ -6,14 +6,14 @@
 	<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
 	<link href="https://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet">
-	<link href="style.css" rel="stylesheet">
+	<link href="./src/css/style.css" rel="stylesheet">
 </head>
 <body>
 
 	<section class="topo">
 		<div class="center">
 			<header>
-				<div class="logo"><img src="images/logo/logo.png" /></div><!--logo-->
+				<div class="logo"><img src="./src/images/logo.png" /></div><!--logo-->
 			</header>
 			<ul class="menu-desktop">
 				<li><a href="">Home</a></li>
@@ -82,13 +82,14 @@
 				<a href="">FAQ</a>
 			</div>
 			<div style="width: 40%;text-align: right;" class="col-footer">
-				<img src="images/footer/foter.png" />
+				<img src="./src/images/foter.png" />
 			</div>
 		</div>
 	</footer>
 
-	<script src="js/jquery.js"></script>
-	
+	<script src="./src/js/jquery.js"></script>
+	<script src='https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyDHPNQxozOzQSZ-djvWGOBUsHkBUoT_qH4'></script>
+	<script src="./src/js/map.js"></script>
 	<script>
 	//Menu responsivo.
 	$('.menu-mobile i').click(function(){

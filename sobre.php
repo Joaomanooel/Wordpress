@@ -6,14 +6,14 @@
 	<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
 	<link href="https://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet">
-	<link href="style.css" rel="stylesheet">
+	<link href="./src/css/style.css" rel="stylesheet">
 </head>
 <body>
 
 	<section class="topo">
 		<div class="center">
 			<header>
-				<div class="logo"><img src="images/logo/logo.png" /></div><!--logo-->
+				<div class="logo"><img src="./src/images/logo.png" /></div><!--logo-->
 			</header>
 			<ul class="menu-desktop">
 				<li><a href="">Home</a></li>
@@ -39,7 +39,7 @@
 				<p> É chegada uma nova era, o tempo de recomeçar a rever conceitos e valores. O ser humano é extremamente dependente dos seus semelhantes, pois nenhuma pessoa consegue viver sem depender de ninguém. O calçado, a camisa, o alimento, tudo de que necessitamos teve o trabalho e a mão de obra de uma outra pessoa que muitas vezes nem conhecemos, mas, de certa forma, essa pessoa nos favoreceu...</p>
 			</div><!--Texto-da-Imagem-->
 			<div class="w50">
-				<img src="images/sobre/equipe.png">
+				<img src="./src/images/equipe.png">
 			</div>
 			<div class="clear"></div><!--Imagem-do-Texto-->
 		</div>
@@ -47,16 +47,16 @@
 	<section class="sobre-imagens">
 		<div class="center">
 			<div class="img-sobre">
-				<img src="images/sobre/sobre-inf.png">
+				<img src="./src/images/sobre-inf.png">
 			</div>
 			<div class="img-sobre">
-				<img src="images/sobre/sobre-inf.png">
+				<img src="./src/images/sobre-inf.png">
 			</div>
 			<div class="img-sobre">
-				<img src="images/sobre/sobre-inf.png">
+				<img src="./src/images/sobre-inf.png">
 			</div>
 			<div class="img-sobre">
-				<img src="images/sobre/sobre-inf.png">
+				<img src="./src/images/sobre-inf.png">
 			</div>
 		</div>
 	</section><!--Imagens-sobre-->
@@ -86,7 +86,7 @@
 				<a href="">FAQ</a>
 			</div>
 			<div style="width: 40%;text-align: right;" class="col-footer">
-				<img src="images/footer/foter.png" />
+				<img src="./src/images/foter.png" />
 			</div>
 		</div>
 	</footer><!--Final-da-pagina-->
